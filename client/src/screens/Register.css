@@ -1,0 +1,59 @@
+
+.register-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.register-left{
+    padding: 10px;
+}
+.register-left h1{
+    color: rgb(0, 132, 255);
+    font-weight: 700;
+}
+.register-left p{
+    width: 400px;
+}
+.register-right{
+    padding: 10px;
+    background-color: rgb(230, 230, 230);
+    width: 400px;
+    border-radius: 10px;
+}
+.register-right input{
+    width: 300px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.register-btn{
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: rgb(24, 77, 250);
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 325px;
+    margin-left: 30px;
+}
+.register-right p{
+    text-align: center;
+    color: rgb(24, 77, 250);
+}
+.register-btn1{
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: rgb(9, 150, 9);
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 325px;
+    margin-left: 30px;
+}

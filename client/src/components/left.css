@@ -1,0 +1,36 @@
+.left-container{
+    padding:10px;
+   
+}
+
+.left-container li{
+    padding: 5px;
+    list-style: none;
+}
+
+.left-btn{
+    margin-top: 10px;
+    width: 120px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(186, 206, 205);
+}
+.left-container span{
+    padding-left: 15px;
+}
+.left-friends1 img{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+.left-friends1{
+display: flex;
+}
+.left-friends1 span{
+    align-self: center;
+}
+.scroll{
+    width: 290px;
+}
+

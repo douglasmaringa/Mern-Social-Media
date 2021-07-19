@@ -1,0 +1,11 @@
+.messenger-container{
+    display: grid;
+    grid-template-columns: 300px 600px 300px;
+   padding: 10px;
+}
+.m-left{
+    padding: 10px;
+}
+.m-left li{
+    list-style-type: none;
+}

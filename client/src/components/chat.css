@@ -1,0 +1,30 @@
+.chat-container{
+    padding: 10px;
+
+}
+.m-middle input{
+    margin-top: 50px;
+    height: 100px;
+    width: 400px;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.m-middle button{
+    padding: 10px;
+    margin-left: 10px;
+    background-color: rgb(10, 110, 224);
+    color: white;
+    width: 100px;
+border-radius: 10px;
+    font-weight: 600;
+}
+.chat-container ul{
+    height: calc(100vh - 350px);
+    overflow-y: scroll;
+    position: sticky;
+    list-style-type: none;
+}
+.chat-left{
+    margin-left: 400px;
+}
